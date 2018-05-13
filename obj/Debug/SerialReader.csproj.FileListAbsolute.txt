@@ -1,0 +1,9 @@
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Projects\SerialReader\SerialReader\bin\Debug\SerialReader.exe.config
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Projects\SerialReader\SerialReader\bin\Debug\SerialReader.exe
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Projects\SerialReader\SerialReader\bin\Debug\SerialReader.pdb
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Projects\SerialReader\SerialReader\obj\Debug\SerialReader.Form1.resources
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Projects\SerialReader\SerialReader\obj\Debug\SerialReader.Properties.Resources.resources
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Projects\SerialReader\SerialReader\obj\Debug\SerialReader.csproj.GenerateResource.cache
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Projects\SerialReader\SerialReader\obj\Debug\SerialReader.csproj.CoreCompileInputs.cache
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Projects\SerialReader\SerialReader\obj\Debug\SerialReader.exe
+C:\Users\Angelfire16\Documents\Visual Studio 2017\Projects\SerialReader\SerialReader\obj\Debug\SerialReader.pdb
